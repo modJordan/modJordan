@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![](https://github.com/modJordan//modJordan/giphy.gif)
+![giphy](https://github.com/modJordan/modJordan/assets/134004191/b0f0ce66-3df5-42e0-bff0-889241efb4eb)
+
 
 ## Frameworks
 
