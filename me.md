@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+<img src="https://github.com/modJordan/modJordan/blob/main/Hi.png" text-align="center" padding="30px">
+</p>
+<br>
+<br>
 
 <div>
 <hr><img src="https://github.com/modJordan/modJordan/blob/main/giphy.gif" width="35px" height="35px" class="rotate_image">
