@@ -5,9 +5,7 @@
 <br>
 
 <div>
-<hr><img src="https://github.com/modJordan/modJordan/blob/main/giphy.gif" width="35px" height="35px" class="rotate_image">
-  <img src="https://github.com/modJordan/modJordan/blob/main/giphy.gif" width="35px" height="35px">
-  <img src="https://github.com/modJordan/modJordan/blob/main/giphy.gif" width="35px" height="35px"></hr>
+<hr><img src="https://github.com/modJordan/modJordan/blob/main/heart_div.png" text-align="center"><img src="https://github.com/modJordan/modJordan/blob/main/heart_div.png" text-align="center"><img src="https://github.com/modJordan/modJordan/blob/main/heart_div.png" text-align="center"><img src="https://github.com/modJordan/modJordan/blob/main/heart_div.png" text-align="center">
 </div>
 
 <br>
