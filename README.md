@@ -27,7 +27,7 @@ While not crafting pixel-perfect designs or slinging code, you'll catch me immer
 <br/>
 
 <p align="center">
-<img src="https://github.com/modJordan/modJordan/blob/main/blueFire.gif" width="90px"><img align="center" height="175px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=modJordan&layout=compact&theme=cobalt&hide_border=true" /> <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=modJordan&show_icons=true&theme=transparent"><img src="https://github.com/modJordan/modJordan/blob/main/blueFire.gif" width="90px" >
+<img src="https://github.com/modJordan/modJordan/blob/main/blueFire.gif" width="90px"><img align="center" height="170px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=modJordan&layout=compact&theme=cobalt&hide_border=true" /> <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=modJordan&show_icons=true&theme=transparent"><img src="https://github.com/modJordan/modJordan/blob/main/blueFire.gif" width="90px" >
 </p>
 <br/>
 <br/>
