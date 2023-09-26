@@ -4,7 +4,7 @@
 
 <ins><strong>𝔸𝕓𝕠𝕦𝕥 𝕞𝕖</strong></ins> Hey there! I'm a creative, driven, and infinitely curious coder. If my code was a costume, it would be a one-of-a-kind cosplay I crafted from scratch (yep, I make those!). 
 
-Dive deep into my repositories and you'll see my love for JavaScript, C#, and HTML/CSS. After all, there's no design dream too big for the frontend, especially if you're willing to troubleshoot! 
+Dive deep into my repositories and you'll see my love for JavaScript, C#, and HTML/CSS. After all, there's no design dream too big for frontend, especially if you're willing to fight on! 
 
 While not crafting pixel-perfect designs or slinging code, you'll catch me immersed in an FPS or RPG game. Currently, I'm on a mission crafting an HTML and JavaScript-based pixel RPG. Stay tuned!
 
@@ -34,8 +34,13 @@ _𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 & 𝕋𝕠𝕠𝕝𝕤_
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
 
-_𝔽𝕚𝕟𝕕 𝕄𝕖!_
-<a href="www.linkedin.com/in/modjordan" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=plastic&logo=linkedin&logoColor=white"/></a> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:mod.Jojok@gmail.com)
+_𝔽𝕚𝕟𝕕 𝕄𝕖!_ 
+<br>
+<img src="https://github.com/modJordan/modJordan/blob/main/emailIcon.gif" height="20px"><img src="https://github.com/modJordan/modJordan/blob/main/emailIcon.gif" height="20px"><img src="https://github.com/modJordan/modJordan/blob/main/emailIcon.gif" height="20px">
+<br>
+<a href="www.linkedin.com/in/modjordan" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:mod.Jojok@gmail.com)
 
 
 
