@@ -2,7 +2,9 @@
 <p align="center"><img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">  <img src="https://komarev.com/ghpvc/?username=modJordan&color=brightgreen" alt="watching_count" /> </p>
 <p align="center"><img src="https://github.com/modJordan/modJordan/blob/main/heart_div.png"></p>
 
-<ins><strong>𝔸𝕓𝕠𝕦𝕥 𝕞𝕖</strong></ins> Hey there! I'm a creative, driven, and infinitely curious coder. If my code was a costume, it would be a one-of-a-kind cosplay I crafted from scratch (yep, I make those!). 
+
+<img src="https://github.com/modJordan/modJordan/blob/main/AboutMe.png" height="36px">
+Hey there! I'm a creative, driven, and infinitely curious coder. If my code was a costume, it would be a one-of-a-kind cosplay I crafted from scratch (yep, I make those!). 
 
 Dive deep into my repositories and you'll see my love for JavaScript, C#, and HTML/CSS. After all, there's no design dream too big for frontend, especially if you're willing to fight on! 
 
@@ -44,7 +46,7 @@ While not crafting pixel-perfect designs or slinging code, you'll catch me immer
 <br>
 <br>
 <p align="center">
-<img src="https://github.com/modJordan/modJordan/blob/main/Moon.gif" height="150px">
+<img src="https://github.com/modJordan/modJordan/blob/main/Moon.gif" height="100px">
 </p>
 <br>
 <br>
