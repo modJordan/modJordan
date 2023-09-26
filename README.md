@@ -12,26 +12,36 @@ While not crafting pixel-perfect designs or slinging code, you'll catch me immer
 
 <details>
 <summary>P.S. Remember:</summary>
-  "Some people, when confronted with a problem, think, 'I know, I'll use threads' - and then two they hav<br>
-                erpoblesms."
-</details>  
-              
 
   
+  ```js
+  Some people, when confronted with a problem, think, 'I know, I'll use threads' - and then two they hav
+                erpoblesms
+```
 
 
+</details>  
+
+<br/>
+<br/>
+<br/>
 
 <p align="center">
 <img src="https://github.com/modJordan/modJordan/blob/main/blueFire.gif" width="100px"><img align="center" height="175px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=modJordan&layout=compact&theme=cobalt&hide_border=true" /> <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=modJordan&show_icons=true&theme=transparent"><img src="https://github.com/modJordan/modJordan/blob/main/blueFire.gif" width="100px" >
 </p>
-<br>
-<br>
-
-
+<br/>
+<br/>
+<br/>
+<p align="center">
+<img src="https://github.com/modJordan/modJordan/blob/main/Divider_Wave.png" width="100%" height="50px">
+</p>
+<br/>
+<br/>
+<br/>
 <p align="center">
 <img src="https://github.com/modJordan/modJordan/blob/main/f5de911e27a8eb1f7c7f9f867631026d.png" height="36px">
 </p>
-<br>
+<br/>
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
@@ -43,19 +53,27 @@ While not crafting pixel-perfect designs or slinging code, you'll catch me immer
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+
+<p align="center">
+<img src="https://github.com/modJordan/modJordan/blob/main/Divider_Wave.png" width="100%" height="50px">
+</p>
+
+<br/>
+<br/>
 <p align="center">
 <img src="https://github.com/modJordan/modJordan/blob/main/Moon.gif" height="100px">
 </p>
-<br>
-<br>
+<br/>
+<br/>
 
 <p align="center">
 <img src="https://github.com/modJordan/modJordan/blob/main/findMe.png" height=36px><img src="https://github.com/modJordan/modJordan/blob/main/emailIcon.gif" height="36px">
 </p>
 
-<br>
+<br/>
 <p align="center">
 <a href="www.linkedin.com/in/modjordan" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
 <a href="wmailto:mod.Jojok@gmail.com)" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
