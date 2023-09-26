@@ -76,7 +76,7 @@ While not crafting pixel-perfect designs or slinging code, you'll catch me immer
 <br/>
 <p align="center">
 <a href="https://www.linkedin.com/in/modjordan/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
-<a href="wmailto:mod.Jojok@gmail.com)" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
+<a href="mailto:mod.Jojok@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
 </p>
 
 
