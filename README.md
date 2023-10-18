@@ -35,11 +35,9 @@ While not crafting pixel-perfect designs or slinging code, you'll catch me immer
 <p align="center">
 <img src="https://github.com/modJordan/modJordan/blob/main/Divider_Wave.png" width="100%" height="50px">
 </p>
-<br/>
 <p align="center">
 <img src="https://github.com/modJordan/modJordan/blob/main/Moon.gif" height="100px">
 </p>
-<br/>
 <br/>
 <p align="center">
 <img src="https://github.com/modJordan/modJordan/blob/main/f5de911e27a8eb1f7c7f9f867631026d.png" height="36px">
