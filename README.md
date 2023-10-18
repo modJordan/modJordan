@@ -55,8 +55,6 @@ While not crafting pixel-perfect designs or slinging code, you'll catch me immer
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
 <br/>
-<br/>
-<br/>
 
 <p align="center">
 <img src="https://github.com/modJordan/modJordan/blob/main/Divider_Wave.png" width="100%" height="50px">
